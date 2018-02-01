@@ -23,8 +23,9 @@ Please find the original data at: [website](http://epileptologie-bonn.de/cms/fro
 
 
 ## Citation Request:
+Q. Wu, E. Fokoue, R. G. A. (2017). Epileptic seizure recognition data set. [Online; UCI Machine Learning Repository].
+
 Andrzejak RG, Lehnertz K, Rieke C, Mormann F, David P, Elger CE (2001) Indications of nonlinear deterministic and finite dimensional structures in time series of brain electrical activity: Dependence on recording region and brain state, Phys. Rev. E, 64, 061907
 
-Q. Wu, E. Fokoue, R. G. A. (2017). Epileptic seizure recognition data set. [Online; UCI Machine Learning Repository].
 
 
