@@ -19,7 +19,7 @@ All subjects falling in classes 2, 3, 4, and 5 are subjects who did not have epi
 
 
 ## Initial Data Set Information:
-Please find the original data at:[website](http://epileptologie-bonn.de/cms/front_content.php?idcat=193&lang=3&changelang=3)
+Please find the original data at: [website](http://epileptologie-bonn.de/cms/front_content.php?idcat=193&lang=3&changelang=3)
 
 
 ## Citation Request:
