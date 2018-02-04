@@ -8,11 +8,11 @@ We divided and shuffled every 4097 data points into 23 chunks, each chunk contai
 
 The response variable is y in column 179, the Explanatory variables X1, X2, ..., X178 
 y contains the category of the 178-dimensional input vector. Specifically y in {1, 2, 3, 4, 5}: 
-5 - eyes open, means when they were recording the EEG signal of the brain the patient had their eyes open 
-4 - eyes closed, means when they were recording the EEG signal the patient had their eyes closed 
-3 - Yes they identify where the region of the tumor was in the brain and recording the EEG activity from the healthy brain area 
-2 - They recorder the EEG from the area where the tumor was located 
-1 - Recording of seizure activity 
+* 5 - eyes open, means when they were recording the EEG signal of the brain the patient had their eyes open 
+* 4 - eyes closed, means when they were recording the EEG signal the patient had their eyes closed 
+* 3 - they identify where the region of the tumor was in the brain and recording the EEG activity from the healthy brain area 
+* 2 - They recorder the EEG from the area where the tumor was located 
+* 1 - Recording of seizure activity 
 
 All subjects falling in classes 2, 3, 4, and 5 are subjects who did not have epileptic seizure. Only subjects in class 1 have epileptic seizure. Our motivation for creating this version of the data was to simplify access to the data via the creation of a .csv version of it. Although there are 5 classes most authors have done binary classification, namely class 1 (Epileptic seizure) against the rest.
 
